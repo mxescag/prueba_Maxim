@@ -1,3 +1,4 @@
 # prueba_Maxim
 Repositorio de prueba 2DAW
-Nuevo contenido documentado
+
+Comentario de Silvia en el repositorio de Max
